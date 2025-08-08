@@ -1,0 +1,11 @@
+{
+  "name": "MZB",
+  "symbol": "MZB",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "MZB（白沙屯媽祖幣）是一款結合信仰、勇氣與文化的加密代幣，用於推廣台灣在地信仰與數位收藏卡應用。",
+  "website": "https://mazu.link",
+  "explorer": "https://bscscan.com/token/0xcf903fD54c92d320E02330bcb0080507b4EE7860",
+  "status": "active",
+  "id": "0xcf903fD54c92d320E02330bcb0080507b4EE7860"
+}
